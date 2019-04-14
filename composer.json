@@ -1,0 +1,25 @@
+{
+    "name": "skrypnet/http-utils",
+    "description": "Basic repo with all HTTP codes, methods and headers as native PHP lacks these simple consts.",
+    "keywords": ["http", "http status", "status codes", "http methods", "http headers", "request headers", "response headers"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jarosław Brzychcy",
+            "email": "info@skrypnet.pl"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "autoload": {
+        "psr-4": {"Skrypnet\\HttpUtils\\": "src/"}
+    },
+    "autoload-dev": {
+        "psr-4": {"Skrypnet\\HttpUtils\\Tests\\": "tests/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
