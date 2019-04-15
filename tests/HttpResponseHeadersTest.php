@@ -9,7 +9,7 @@ use ReflectionException;
 use Skrypnet\HttpUtils\HttpResponseHeaders;
 
 /**
- * @author Jarosław Brzychcy <jaroslaw.brzychcy@enp.pl>
+ * @author Jarosław Brzychcy <info@skrypnet.pl>
  */
 class HttpResponseHeadersTest extends TestCase
 {

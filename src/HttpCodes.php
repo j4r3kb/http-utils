@@ -5,7 +5,7 @@ declare(strict_types = 1);
 namespace Skrypnet\HttpUtils;
 
 /**
- * @author Jarosław Brzychcy <jaroslaw.brzychcy@enp.pl>
+ * @author Jarosław Brzychcy <info@skrypnet.pl>
  */
 class HttpCodes extends AbstractConstantList
 {

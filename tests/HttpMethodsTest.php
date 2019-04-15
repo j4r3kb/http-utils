@@ -9,7 +9,7 @@ use ReflectionException;
 use Skrypnet\HttpUtils\HttpMethods;
 
 /**
- * @author Jarosław Brzychcy <jaroslaw.brzychcy@enp.pl>
+ * @author Jarosław Brzychcy <info@skrypnet.pl>
  */
 class HttpMethodsTest extends TestCase
 {

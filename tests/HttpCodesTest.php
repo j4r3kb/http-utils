@@ -8,7 +8,7 @@ use PHPUnit\Framework\TestCase;
 use Skrypnet\HttpUtils\HttpCodes;
 
 /**
- * @author Jarosław Brzychcy <jaroslaw.brzychcy@enp.pl>
+ * @author Jarosław Brzychcy <info@skrypnet.pl>
  */
 class HttpCodesTest extends TestCase
 {

@@ -7,7 +7,7 @@ namespace Skrypnet\HttpUtils;
 use ReflectionException;
 
 /**
- * @author Jarosław Brzychcy <jaroslaw.brzychcy@enp.pl>
+ * @author Jarosław Brzychcy <info@skrypnet.pl>
  */
 class HttpMethods extends AbstractConstantList
 {

@@ -8,7 +8,7 @@ use ReflectionClass;
 use ReflectionException;
 
 /**
- * @author Jarosław Brzychcy <jaroslaw.brzychcy@enp.pl>
+ * @author Jarosław Brzychcy <info@skrypnet.pl>
  */
 abstract class AbstractConstantList
 {
